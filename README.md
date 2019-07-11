@@ -53,6 +53,8 @@ Right click backend/src/main/java/com/jcromp.project_name.MainApplication.java >
 # Running Frontend
 
 In the terminal cd into frontend
+`npm install`
+then,
 ` npm run dev` 
 
 And you are up and running.
