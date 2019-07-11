@@ -31,6 +31,9 @@ To get your project up and running you only have to edit the following files:
   * Description
   * Author
   
+## frontend/index.html
+  * `<title>`
+  
 ## backend/src
   * package "project_name"
   * MainApplication.java to something more relevant to you application.
